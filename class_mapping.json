@@ -1,0 +1,134 @@
+{
+  "pair_to_id": {
+    "AAPL___Apple Inc.": 0,
+    "AMD___Advanced Micro Devices, Inc.": 1,
+    "AMZN___Amazon.com, Inc.": 2,
+    "BA___The Boeing Company": 3,
+    "COST___Costco Wholesale Corporation": 4,
+    "CRM___Salesforce, Inc.": 5,
+    "DIS___The Walt Disney Company": 6,
+    "ENPH___Enphase Energy, Inc.": 7,
+    "GOOG___Alphabet Inc.": 8,
+    "INTC___Intel Corporation": 9,
+    "KO___The Coca-Cola Company": 10,
+    "META___Meta Platforms, Inc.": 11,
+    "MSFT___Microsoft Corporation": 12,
+    "NFLX___Netflix, Inc.": 13,
+    "NIO___NIO Inc.": 14,
+    "PG___Procter & Gamble Company": 15,
+    "PYPL___PayPal Holdings, Inc.": 16,
+    "TSLA___Tesla, Inc.": 17,
+    "TSM___Taiwan Semiconductor Manufacturing Company Limited": 18,
+    "XPEV___XPeng Inc.": 19,
+    "OTHERS": 20
+  },
+  "id_to_info": {
+    "0": {
+      "stock": "AAPL",
+      "company": "Apple Inc.",
+      "is_others": false
+    },
+    "1": {
+      "stock": "AMD",
+      "company": "Advanced Micro Devices, Inc.",
+      "is_others": false
+    },
+    "2": {
+      "stock": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "is_others": false
+    },
+    "3": {
+      "stock": "BA",
+      "company": "The Boeing Company",
+      "is_others": false
+    },
+    "4": {
+      "stock": "COST",
+      "company": "Costco Wholesale Corporation",
+      "is_others": false
+    },
+    "5": {
+      "stock": "CRM",
+      "company": "Salesforce, Inc.",
+      "is_others": false
+    },
+    "6": {
+      "stock": "DIS",
+      "company": "The Walt Disney Company",
+      "is_others": false
+    },
+    "7": {
+      "stock": "ENPH",
+      "company": "Enphase Energy, Inc.",
+      "is_others": false
+    },
+    "8": {
+      "stock": "GOOG",
+      "company": "Alphabet Inc.",
+      "is_others": false
+    },
+    "9": {
+      "stock": "INTC",
+      "company": "Intel Corporation",
+      "is_others": false
+    },
+    "10": {
+      "stock": "KO",
+      "company": "The Coca-Cola Company",
+      "is_others": false
+    },
+    "11": {
+      "stock": "META",
+      "company": "Meta Platforms, Inc.",
+      "is_others": false
+    },
+    "12": {
+      "stock": "MSFT",
+      "company": "Microsoft Corporation",
+      "is_others": false
+    },
+    "13": {
+      "stock": "NFLX",
+      "company": "Netflix, Inc.",
+      "is_others": false
+    },
+    "14": {
+      "stock": "NIO",
+      "company": "NIO Inc.",
+      "is_others": false
+    },
+    "15": {
+      "stock": "PG",
+      "company": "Procter & Gamble Company",
+      "is_others": false
+    },
+    "16": {
+      "stock": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "is_others": false
+    },
+    "17": {
+      "stock": "TSLA",
+      "company": "Tesla, Inc.",
+      "is_others": false
+    },
+    "18": {
+      "stock": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Company Limited",
+      "is_others": false
+    },
+    "19": {
+      "stock": "XPEV",
+      "company": "XPeng Inc.",
+      "is_others": false
+    },
+    "20": {
+      "stock": "OTHERS",
+      "company": "Multiple",
+      "is_others": true
+    }
+  },
+  "min_samples_threshold": 200,
+  "num_classes": 21
+}
