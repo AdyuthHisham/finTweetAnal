@@ -1,3 +1,9 @@
 # Ignore model files
 *.pt
-*.pt 
+*.png
+*.csv
+finTweetAnal_Cloud.ipynb
+!SSY340_Project_Poster.png
+*.zip
+finTweetAnal.ipynb
+models/
